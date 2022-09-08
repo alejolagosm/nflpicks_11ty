@@ -1,0 +1,11 @@
+---
+title: "NFL Picks"
+layout: "base.njk"
+---
+
+<h2 class="projects__heading">2022 Picks</h2>
+<div class="project-list">
+  {% asyncEach pick in collections.picks %}
+    {% include "pick-card.njk" %}
+  {% endeach %}
+</div>
