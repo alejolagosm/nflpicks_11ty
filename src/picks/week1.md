@@ -9,16 +9,6 @@ tech:
   - 'Broncos'
 ---
 
-## Overall season records
-
----
-
-<h5> Overall season record </h5>
-8-7-1
-
-<h5> My best five </h5>
-2-3
-
 ### My best five
 
 ---
@@ -157,9 +147,3 @@ tech:
     </tr>   
 </table>
 <br />
-
-### Lessons learned from last week
-
----
-
-It's the preseason, you can't really get any good info. Other than following the pletora of injuries to some teams (Cowboys, Bucs, Jets) there is not a lot of information to go by.
