@@ -32,9 +32,9 @@ tech:
         <th>Result</th>
     </tr> 
     <tr>
-        <td><img src="/images/vikings.png"  alt="Bills Logo"></td>
+        <td><img src="/images/vikings.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/saints.png"  alt="Rams Logo"></td>
+        <td><img src="/images/saints.png"  alt="Team 2"></td>
         <td><p>Vikings -2.5</p></td>
         <td>✔</td>
     </tr>
@@ -71,7 +71,7 @@ tech:
         <td>@</td>
         <td><img src="/images/49ers.png"  alt="Team 2"></td>
         <td><p>Rams +2.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr> 
 </table>
 <br />
@@ -121,7 +121,7 @@ tech:
         <td>@</td>
         <td><img src="/images/buccaneers.png"  alt="Team 2" ></td>
         <td><p>Chiefs -2.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />

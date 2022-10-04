@@ -1,6 +1,6 @@
 ---
 title: 'Week 5 Picks'
-summary: 'Pending'
+summary: 'mediocre week for my best five, so I still have not been able to recover from the disaster in week 2. However, I went over .500 for the week, so my hopes are still up'
 image: ../images/packers.png
 imageAlt: 'Packers Logo'
 tech:
@@ -14,10 +14,10 @@ tech:
 ---
 
 <h5> Overall season record </h5>
-25-23-1
+35-29-1
 
 <h5> My best five </h5>
-6-10
+9-13
 
 ### My best five
 
@@ -32,9 +32,9 @@ tech:
         <th>Result</th>
     </tr> 
     <tr>
-        <td><img src="/images/falcons.png"  alt="Bills Logo"></td>
+        <td><img src="/images/falcons.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/buccaneers.png"  alt="Rams Logo"></td>
+        <td><img src="/images/buccaneers.png"  alt="Team 2"></td>
         <td><p></p></td>
         <td></td>
     </tr>
