@@ -1,12 +1,12 @@
 ---
 title: 'Week 5 Picks'
-summary: 'mediocre week for my best five, so I still have not been able to recover from the disaster in week 2. However, I went over .500 for the week, so my hopes are still up'
-image: ../images/packers.png
-imageAlt: 'Packers Logo'
+summary: 'Mediocre past week for my best five, so I still have not been able to recover from the disaster in week 2. This week has some really tough games, so I am just hoping to get out alive on the other side'
+image: ../images/falcons.png
+imageAlt: 'Falcons Logo'
 tech:
-  - 'Packers'
-  - '49ers'
-  - 'Ravens'
+  - 'Falcons'
+  - 'Browns'
+  - 'Jets'
 ---
 
 ## Overall season records
@@ -36,34 +36,34 @@ tech:
         <td>@</td>
         <td><img src="/images/buccaneers.png"  alt="Team 2"></td>
         <td><p></p></td>
-        <td></td>
+        <td>Falcons +9.0</td>
     </tr>
     <tr>
         <td><img src="/images/giants.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/packers.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Packers -8.5</p></td>
         <td></td>
     </tr> 
     <tr>
-        <td><img src="/images/steelers.png"  alt="Team 1"></td>
+        <td><img src="/images/chargers.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/bills.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><img src="/images/browns.png"  alt="Team 2"></td>
+        <td><p>Browns +3.0</p></td>
         <td></td>
     </tr> 
     <tr>
         <td><img src="/images/bears.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/vikings.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Vikings -7.0</p></td>
         <td></td>
     </tr> 
     <tr>
-        <td><img src="/images/49ers.png"  alt="Team 1"></td>
+        <td><img src="/images/dolphins.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/panthers.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><img src="/images/jets.png"  alt="Team 2"></td>
+        <td><p>Jets +3.0</p></td>
         <td></td>
     </tr>
 </table>
@@ -85,35 +85,42 @@ tech:
         <td><img src="/images/lions.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/patriots.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Patriots -3.0</p></td>
         <td></td>
     </tr>
-    <tr>
-        <td><img src="/images/titans.png"  alt="Team 1"></td>
-        <td>@</td>
-        <td><img src="/images/wft.png"  alt="Team 2"></td>
-        <td><p></p></td>
-        <td></td>
-    </tr> 
     <tr>
         <td><img src="/images/seahawks.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/saints.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Seahawks +5.5</p></td>
         <td></td>
     </tr> 
     <tr>
-        <td><img src="/images/eagles.png"  alt="Team 1"></td>
+        <td><img src="/images/titans.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/cardinals.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><img src="/images/commanders.png"  alt="Team 2"></td>
+        <td><p>Commanders +2.5</p></td>
         <td></td>
     </tr> 
     <tr>
-        <td><img src="/images/cowboys.png"  alt="Team 1" ></td>
+        <td><img src="/images/texans.png"  alt="Team 1"></td>
         <td>@</td>
-        <td><img src="/images/rams.png"  alt="Team 2" ></td>
-        <td><p></p></td>
+        <td><img src="/images/jaguars.png"  alt="Team 2"></td>
+        <td><p>Jaguars -7.0</p></td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td><img src="/images/eagles.png"  alt="Team 1" ></td>
+        <td>@</td>
+        <td><img src="/images/cardinals.png"  alt="Team 2" ></td>
+        <td><p>Cardinals +5.5</p></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><img src="/images/raiders.png"  alt="Team 1" ></td>
+        <td>@</td>
+        <td><img src="/images/chiefs.png"  alt="Team 2" ></td>
+        <td><p>Chiefs -7.5</p></td>
         <td></td>
     </tr>
 </table>
@@ -133,23 +140,23 @@ tech:
     </tr> 
     <tr>
         <td>Colts</td><td>@</td><td>Broncos</td>
-        <td></td><td></td>
+        <td>Colts +3.0</td><td></td>
     </tr>
     <tr>
+        <td>Steelers</td><td>@</td><td>Bills</td>
+        <td>Bills +14.0</td><td></td>
+    </tr> 
+    <tr>
+        <td>49ers</td><td>@</td><td>Panthers</td>
+        <td>49ers -6.5</td><td></td>
+    </tr> 
+    <tr>
+        <td>Cowboys</td><td>@</td><td>Rams</td>
+        <td>Cowboys +4.5</td><td></td>
+    </tr> 
+    <tr>
         <td>Bengals</td><td>@</td><td>Ravens</td>
-        <td></td><td></td>
-    </tr> 
-    <tr>
-        <td>Raiders</td><td>@</td><td>Chiefs</td>
-        <td></td><td></td>
-    </tr> 
-    <tr>
-        <td>Texans</td><td>@</td><td>Jaguars</td>
-        <td></td><td></td>
-    </tr> 
-    <tr>
-        <td>Dolphins</td><td>@</td><td>Jets</td>
-        <td></td><td></td>
+        <td>Ravens -3.0</td><td></td>
     </tr>  
 </table>
 <br />
@@ -157,3 +164,7 @@ tech:
 ### Lessons learned from last week
 
 ---
+
+There are several teams that I have been giving too much credit in the past weeks, I think it's time to adjust.
+
+On the other hand, I should not over react to the previous week results and instead look for overall trends
