@@ -145,7 +145,7 @@ tech:
     </tr> 
     <tr>
         <td>Broncos</td><td>@</td><td>Chargers</td>
-        <td>Chargers +5.5</td><td></td>
+        <td>Chargers +5.5</td><td>❌</td>
     </tr> 
 </table>
 <br />
