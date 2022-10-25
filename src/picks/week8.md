@@ -1,8 +1,8 @@
 ---
 title: 'Week 8 Picks'
-summary: 'Overall a good week, could have been amazing if I hadn't selected the Broncos and Jaguars, two teams that have burned me all season long. They face off this week so I'm definitely getting the wrong side of that bet'
-image: ../images/falcons.png
-imageAlt: 'Falcons Logo'
+summary: 'Overall a good week, could have been amazing if I had not selected the Broncos and Jaguars, two teams that have burned me all season long. They face off this week so I am definitely getting the wrong side of that bet'
+image: ../images/giants.png
+imageAlt: 'Giants Logo'
 tech:
   - 'Falcons'
   - 'Browns'

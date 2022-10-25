@@ -1,4 +1,4 @@
 {
-  "layout": "pick.njk",
+  "layout": "weekly_picks.njk",
   "tags": "picks"
 }

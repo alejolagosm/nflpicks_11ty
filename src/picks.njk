@@ -1,11 +1,15 @@
 ---
-title: "NFL Picks"
+title: My Posts
 layout: "base.njk"
+pagination:
+  data: collections.picks
+  size: 10
+  alias: picks
+  reverse: true
 ---
 
-<h2 class="projects__heading">2022 Picks</h2>
 <div class="project-list">
-  {% asyncEach pick in collections.picks %}
-    {% include "pick-card.njk" %}
-  {% endeach %}
+{% for pick in picks %}
+  {% include "pick-card.njk" %}
+{% endfor %}
 </div>
