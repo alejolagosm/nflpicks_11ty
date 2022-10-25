@@ -1,12 +1,12 @@
 ---
 title: 'Week 4 Picks'
 summary: 'I was able to recup some of the losses from week 2, I am hoping to keep the momentum going into week 4 by betting some good underdogs that I think are poised for take off'
-image: ../images/packers.png
-imageAlt: 'Packers Logo'
+image: ../images/vikings.png
+imageAlt: 'Vikings Logo'
 tech:
-  - 'Packers'
-  - '49ers'
-  - 'Ravens'
+  - 'Vikings'
+  - 'Cowboys'
+  - 'Jaguars'
 ---
 
 ## Overall season records
