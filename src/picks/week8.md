@@ -14,10 +14,10 @@ tech:
 ---
 
 <h5> Overall season record </h5>
-44-35-2
+58-49-2
 
 <h5> My best five </h5>
-12-14-1
+17-20-1
 
 ### My best five
 

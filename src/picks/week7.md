@@ -71,7 +71,7 @@ tech:
         <td>@</td>
         <td><img src="/images/patriots.png"  alt="Team 2"></td>
         <td><p>Patriots -7.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
 </table>
 <br />
