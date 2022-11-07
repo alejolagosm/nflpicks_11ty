@@ -100,7 +100,7 @@ tech:
         <td>@</td>
         <td><img src="/images/chiefs.png"  alt="Team 2"></td>
         <td><p>Chiefs +12.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr> 
     <tr>
         <td><img src="/images/ravens.png"  alt="Team 1" ></td>
