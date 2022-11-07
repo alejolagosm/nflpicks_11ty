@@ -36,35 +36,35 @@ tech:
         <td>@</td>
         <td><img src="/images/falcons.png"  alt="Team 2"></td>
         <td><p>Falcons +3.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
     <tr>
         <td><img src="/images/panthers.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/bengals.png"  alt="Team 2"></td>
         <td><p>Bengals -7.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/vikings.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/commanders.png"  alt="Team 2"></td>
         <td><p>Vikings -3.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr> 
     <tr>
         <td><img src="/images/seahawks.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/cardinals.png"  alt="Team 2"></td>
         <td><p>Seahawks +2.0</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/rams.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/buccaneers.png"  alt="Team 2"></td>
         <td><p>Rams +2.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
 </table>
 <br />
@@ -86,14 +86,14 @@ tech:
         <td>@</td>
         <td><img src="/images/lions.png"  alt="Team 2"></td>
         <td><p>Packers -3.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr> 
     <tr>
         <td><img src="/images/bills.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/jets.png"  alt="Team 2"></td>
         <td><p>Jets +12.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/titans.png"  alt="Team 1"></td>
@@ -126,15 +126,15 @@ tech:
     </tr> 
     <tr>
         <td>Eagles</td><td>@</td><td>Texans</td>
-        <td>Texans + 14.0</td><td></td>
+        <td>Texans + 14.0</td><td>✔</td>
     </tr>
     <tr>
         <td>Colts</td><td>@</td><td>Patriots</td>
-        <td>Patriots +-5.5</td><td></td>
+        <td>Patriots -5.5</td><td>✔</td>
     </tr> 
     <tr>
         <td>Raiders</td><td>@</td><td>Jaguars</td>
-        <td>Jaguars +1.5</td><td></td>
+        <td>Jaguars +1.5</td><td>✔</td>
     </tr> 
     <tr>
         <td>Dolphins</td><td>@</td><td>Bears</td>
