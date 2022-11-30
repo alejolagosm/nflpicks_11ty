@@ -107,7 +107,7 @@ tech:
         <td>@</td>
         <td><img src="/images/saints.png"  alt="Team 2" ></td>
         <td><p>Ravens -2.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />
