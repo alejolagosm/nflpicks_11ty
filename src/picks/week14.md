@@ -1,12 +1,12 @@
 ---
 title: 'Week 14 Picks'
-summary: ''
-image: ../images/browns.png
-imageAlt: 'Browns Logo'
+summary: 'Another below average week and it is starting to get dark fast for my best five picks. I am still holding on hope for a couple of great weeks in a row to get me above .500 for the year'
+image: ../images/bengals.png
+imageAlt: 'Bengals Logo'
 tech:
+  - 'Bengals'
   - 'Titans'
-  - 'Browns'
-  - 'Ravens'
+  - 'Vikings'
 ---
 
 ## Overall season records
@@ -14,10 +14,10 @@ tech:
 ---
 
 <h5> Overall season record </h5>
-98-80-4
+104-89-4
 
 <h5> My best five </h5>
-30-32-1
+32-35-1
 
 ### My best five
 
