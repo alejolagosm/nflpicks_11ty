@@ -36,42 +36,42 @@ tech:
         <td>@</td>
         <td><img src="/images/raiders.png"  alt="Team 2"></td>
         <td><p>49ers -6.0</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
     <tr>
         <td><img src="/images/broncos.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/chiefs.png"  alt="Team 2"></td>
         <td><p>Chiefs -12.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr> 
     <tr>
         <td><img src="/images/bills.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/bengals.png"  alt="Team 2"></td>
         <td><p>Bengals +1.5</p></td>
-        <td></td>
+        <td>-</td>
     </tr> 
     <tr>
         <td><img src="/images/colts.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/giants.png"  alt="Team 2"></td>
         <td><p>Giants -5.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/panthers.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/buccaneers.png"  alt="Team 2"></td>
         <td><p>Panthers +3.0</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
     <tr>
         <td><img src="/images/jets.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/seahawks.png"  alt="Team 2"></td>
         <td><p>Seahawks +1.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />
@@ -93,42 +93,42 @@ tech:
         <td>@</td>
         <td><img src="/images/eagles.png"  alt="Team 2"></td>
         <td><p>Eagles -6.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
     <tr>
         <td><img src="/images/dolphins.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/patriots.png"  alt="Team 2"></td>
         <td><p>Patriots -3.0</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/browns.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/wft.png"  alt="Team 2"></td>
         <td><p>Commanders -1.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
     <tr>
         <td><img src="/images/steelers.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/ravens.png"  alt="Team 2"></td>
         <td><p>Steelers +2.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr> 
     <tr>
         <td><img src="/images/jaguars.png"  alt="Team 1" ></td>
         <td>@</td>
         <td><img src="/images/texans.png"  alt="Team 2" ></td>
         <td><p>Jaguars -4.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
     <tr>
         <td><img src="/images/bears.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/lions.png"  alt="Team 2"></td>
         <td><p>Lions -5.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />
@@ -147,19 +147,19 @@ tech:
     </tr> 
     <tr>
         <td>Cowboys</td><td>@</td><td>Titans</td>
-        <td>Cowboys -10.5</td><td></td>
+        <td>Cowboys -10.5</td><td>✔</td>
     </tr>
     <tr>
         <td>Cardinals</td><td>@</td><td>Falcons</td>
-        <td>Falcons -3.0</td><td></td>
+        <td>Falcons -3.0</td><td>❌</td>
     </tr> 
     <tr>
         <td>Vikings</td><td>@</td><td>Packers</td>
-        <td>Packers -3.0</td><td></td>
+        <td>Packers -3.0</td><td>✔</td>
     </tr> 
     <tr>
         <td>Rams</td><td>@</td><td>Chargers</td>
-        <td>Chargers -6.5</td><td></td>
+        <td>Chargers -6.5</td><td>✔</td>
     </tr> 
 </table>
 <br />
