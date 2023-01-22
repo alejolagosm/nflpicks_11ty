@@ -44,28 +44,28 @@ Regular season
         <td><img src="/images/bengals.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/bills.png"  alt="Team 2"></td>
-        <td><p>Bengals</p></td>
+        <td><p>Bengals +5.5</p></td>
         <td></td>
     </tr>
     <tr>
         <td><img src="/images/jaguars.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/chiefs.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Ciefs -9.5</p></td>
         <td></td>
     </tr> 
     <tr>
         <td><img src="/images/cowboys.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/49ers.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Cowboys +3.5</p></td>
         <td></td>
     </tr>
     <tr>
         <td><img src="/images/giants.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/eagles.png"  alt="Team 2"></td>
-        <td><p></p></td>
+        <td><p>Eagles -7.5</p></td>
         <td></td>
     </tr>
 </table>
