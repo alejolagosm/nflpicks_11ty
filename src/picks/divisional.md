@@ -26,7 +26,7 @@ Regular season
 42-41-2
 
 <h5> Playoffs </h5>
-7-3
+9-4
 
 ### Divisional Games
 
@@ -95,14 +95,14 @@ SB: Chiefs vs Cowboys
         <td>@</td>
         <td><img src="/images/eagles.png"  alt="Team 2"></td>
         <td><p>49ers -1.5</p></td>
-        <td></td>
+        <td>❌</td>
     </tr>
     <tr>
         <td><img src="/images/bengals.png"  alt="Team 1"></td>
         <td>@</td>
         <td><img src="/images/chiefs.png"  alt="Team 2"></td>
         <td><p>Chiefs -1.5</p></td>
-        <td></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />
@@ -122,9 +122,9 @@ SB: Chiefs vs Cowboys
     <tr>
         <td><img src="/images/chiefs.png"  alt="Team 1"></td>
         <td>vs</td>
-        <td><img src="/images/49ers.png"  alt="Team 2"></td>
-        <td><p></p></td>
-        <td></td>
+        <td><img src="/images/eagles.png"  alt="Team 2"></td>
+        <td><p>Chiefs +2.0</p></td>
+        <td>✔</td>
     </tr>
 </table>
 <br />
@@ -132,3 +132,8 @@ SB: Chiefs vs Cowboys
 ### Season lessons
 
 ---
+
+Finished the season with an average record of 50%, I guess the lesson is
+that I do not know much about football or follow it close enough to be able
+to gamble real money. It was still fun and I think I might keep doing it for
+following seasons after this.
